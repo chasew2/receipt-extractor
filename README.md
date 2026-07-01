@@ -6,6 +6,13 @@ Upload receipt images or PDFs, and Claude reads each one and pulls out the vendo
 
 ---
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/05a5d420-e92b-4129-86a6-727a0a5711d5
+
+
+
 ## The problem it solves
 
 Expense tracking at most small companies is a manual chore: someone squints at a shoebox of receipts and retypes each one into a spreadsheet. It's slow, boring, and error-prone — exactly the kind of repetitive task that quietly eats hours every month. This tool replaces that data entry with a vision model, while keeping a human in the loop for the final sign-off.
